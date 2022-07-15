@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    color: white;
+    font-size: 35px;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    
+   
+}
+.uno{
+    display: flex;
+    height: 20%;    
+}
+.uno-uno{
+    width: 70%;
+    background-color: #F0223B;
+    
+    
+}
+.uno-dos{
+    width: 30%;
+    background-color: #FA23A9;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    
+}
+.dos{
+    display: flex;
+    height: 60%;
+}
+.dos-uno{
+    width: 50%;
+    background-color: #8d0e96;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+.dos-dos{
+    width: 50%;
+   
+}
+.dos-dos-uno{
+    background-color: #14e3b5;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.dos-dos-dos{
+    background-color: #15967A;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.tres{
+    display: flex;
+    height: 20%;
+   
+}
+
+.tres-uno{
+    background-color: #D72BE3;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    
+}
+.tres-dos{
+    background-color: #F34AFF;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    
+}
+.tres-tres{
+    background-color:  #7BE32B;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    
+}
+
+
